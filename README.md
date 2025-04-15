@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Aarthi 👋
 
-<!--
-**aarthi606/aarthi606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ***AI & Data Science student*** with a passion for using technology to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+__**🔍 What I Do**__  
+- I work with **machine learning**, **deep learning**, and **AI** to build innovative solutions.  
+- I love learning new technologies, working with data, and creating projects that make a difference in fields like healthcare and beyond.
+
+---
+
+__**💻 Technologies**__  
+**Languages:** Python  
+**Libraries/Tools:** TensorFlow, Keras, NumPy, Pandas, Scikit-learn  
+**Other:** Git, Docker, Jupyter Notebooks, GitHub
+
+---
+
+__**🔥 Featured Projects**__  
+
+**🫁 Pneumonia Detection**  
+Built a deep learning model to detect pneumonia from chest X-rays using CNNs. Helps in fast and accurate diagnosis in the medical field.
+
+**🚨 Suspicious Package Detection**  
+Real-time object detection system to identify unattended or suspicious packages and trigger alerts for public safety.
+
+**🧠 GAN for Medical Image Synthesis**  
+Used GANs to generate synthetic medical images (X-rays, MRIs) to improve training data for diagnostic models.
+
+---
+
+__**📫 How to Reach Me**__  
+- Email: aarthiravikmar2004@gmail.com  
+- LinkedIn: [Your LinkedIn Link]
+
+---
+
+__**🚀 Fun Fact**__  
+- I’m always looking for new projects to collaborate on, so feel free to reach out! 😄
