@@ -10,7 +10,7 @@ I'm an **AI & Data Science student** with a passion for using technology to solv
 ## 🔍 **What I Do**
 
 - I specialize in **Machine Learning**, **Deep Learning**, and **AI**, working on innovative projects that leverage cutting-edge technologies.
-- I’m passionate about solving real-world challenges, especially in **healthcare**, **safety**, and **medical fields**.
+- I’m passionate about solving real-world challenges and finding solutions
 - I enjoy learning new technologies, experimenting with data, and using AI to build intelligent solutions that make a meaningful impact.
 
 ---
@@ -48,8 +48,10 @@ I'm an **AI & Data Science student** with a passion for using technology to solv
 
 - **Email:** aarthiravikmar2004@gmail.com
 - **LinkedIn:** www.linkedin.com/in/aarthi-s-r-a165b9247
+- **Github:** You can find all my repositories here: [My GitHub Repositories](https://github.com/aarthi606?tab=repositories)
 
 ---
+
 
 ## 🚀 **Fun Fact**
 - I’m always excited about new **AI projects** and love collaborating with like-minded individuals. Feel free to reach out if you're looking to work on something innovative! 😄
