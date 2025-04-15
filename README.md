@@ -1,40 +1,55 @@
-# Hi, I'm Aarthi 👋
+<p align="center">
+  <img src="AARTHI%20S%20R.png" alt="Hi, I'm Aarthi" width="100%" />
+</p>
 
-I'm an ***AI & Data Science student*** with a passion for using technology to solve real-world problems.
 
----
-
-__**🔍 What I Do**__  
-- I work with **machine learning**, **deep learning**, and **AI** to build innovative solutions.  
-- I love learning new technologies, working with data, and creating projects that make a difference in fields like healthcare and beyond.
+I'm an **AI & Data Science student** with a passion for using technology to solve real-world problems. 🚀
 
 ---
 
-__**💻 Technologies**__  
-**Languages:** Python  
-**Libraries/Tools:** TensorFlow, Keras, NumPy, Pandas, Scikit-learn  
-**Other:** Git, Docker, Jupyter Notebooks, GitHub
+## 🔍 **What I Do**
+
+- I specialize in **Machine Learning**, **Deep Learning**, and **AI**, working on innovative projects that leverage cutting-edge technologies.
+- I’m passionate about solving real-world challenges, especially in **healthcare**, **safety**, and **medical fields**.
+- I enjoy learning new technologies, experimenting with data, and using AI to build intelligent solutions that make a meaningful impact.
 
 ---
 
-__**🔥 Featured Projects**__  
+## 💻 **Technologies**
 
-**🫁 Pneumonia Detection**  
-Built a deep learning model to detect pneumonia from chest X-rays using CNNs. Helps in fast and accurate diagnosis in the medical field.
+**Programming Languages:**  
+- **Python**  
 
-**🚨 Suspicious Package Detection**  
-Real-time object detection system to identify unattended or suspicious packages and trigger alerts for public safety.
+**Libraries & Tools:**  
+- **TensorFlow**, **Keras**, **NumPy**, **Pandas**, **Scikit-learn**
 
-**🧠 GAN for Medical Image Synthesis**  
-Used GANs to generate synthetic medical images (X-rays, MRIs) to improve training data for diagnostic models.
-
----
-
-__**📫 How to Reach Me**__  
-- Email: aarthiravikmar2004@gmail.com  
-- LinkedIn: [Your LinkedIn Link]
+**Other Technologies:**  
+- **Git**, **Docker**, **Jupyter Notebooks**, **GitHub**
 
 ---
 
-__**🚀 Fun Fact**__  
-- I’m always looking for new projects to collaborate on, so feel free to reach out! 😄
+## 🔥 **Featured Projects**
+
+### 🫁 **Pneumonia Detection**
+- Developed a **deep learning model** to detect **pneumonia** from chest X-rays using **Convolutional Neural Networks (CNNs)**.
+- This project enables **fast, accurate diagnosis** and assists in **early detection** of pneumonia, making healthcare more efficient.
+
+### 🚨 **Suspicious Package Detection**
+- Built a **real-time object detection system** to identify **unattended or suspicious packages** in public areas.
+- Uses **computer vision** and **AI** to **trigger safety alerts**, ensuring public safety by preventing potential threats.
+
+### 🧠 **GAN for Medical Image Synthesis**
+- Leveraged **Generative Adversarial Networks (GANs)** to generate **synthetic medical images** like X-rays and MRIs.
+- This synthetic data is used to **enhance training datasets**, improving the accuracy of diagnostic models in healthcare.
+
+---
+
+## 📫 **How to Reach Me**
+
+- **Email:** aarthiravikmar2004@gmail.com
+- **LinkedIn:** www.linkedin.com/in/aarthi-s-r-a165b9247
+
+---
+
+## 🚀 **Fun Fact**
+- I’m always excited about new **AI projects** and love collaborating with like-minded individuals. Feel free to reach out if you're looking to work on something innovative! 😄
